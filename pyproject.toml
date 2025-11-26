@@ -1,0 +1,15 @@
+[project]
+name = "balabank-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "faiss-cpu>=1.13.0",
+    "fastapi>=0.122.0",
+    "google-genai>=1.52.0",
+    "langchain-text-splitters>=1.0.0",
+    "sentence-transformers>=5.1.2",
+    "tqdm>=4.67.1",
+    "uvicorn>=0.38.0",
+]
