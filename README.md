@@ -4,22 +4,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Configuration](#-configuration)
-- [Usage](#-usage)
-- [API Endpoints](#-api-endpoints)
-- [How It Works](#-how-it-works)
-- [Examples](#-examples)
-- [Contributing](#-contributing)
-- [License](#-license)
-
----
-
 ## ✨ Features
 
 - 🤖 **Role-based responses**: Tailored answers for children and parents
